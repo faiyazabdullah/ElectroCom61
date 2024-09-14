@@ -10,9 +10,9 @@
 <body>
 
 <h2>Dataset Overview</h2>
-<p>We have introduced a multi-class object detection dataset for a range of electronic components coined as “ElectroCom61”. We have collected data from the Electronics Lab Support Room at the United International University (UIU), Dhaka, Bangladesh. To mimic realworld scenarios and enhance the robustness of models trained on this data, images were captured under varied lighting conditions, against diverse backgrounds, and multiple camera angles. The dataset is organized into 61 classes and contains a diverse collection of 2071 annotated images of electronic components. The images were randomly split into training, validation, and test images for training and testing the deep learning models. The images were preprocessed to enhance model training and performance. This dataset is a rich resource for developing advanced detection systems. It holds significant potential for educational and industrial applications, such as creating interactive learning tools, creating e-waste management systems, and streamlining inventory management processes in electronic manufacturing.</p>
+<p>We have introduced a multi-class object detection dataset for a range of electronic components coined as “ElectroCom61”. We have collected data from the Electronics Lab Support Room at the United International University (UIU), Dhaka, Bangladesh. To mimic real-world scenarios and enhance the robustness of models trained on this data, images were captured under varied lighting conditions, against diverse backgrounds, and multiple camera angles. The dataset is organized into 61 classes and contains a diverse collection of 2071 annotated images of electronic components. The images were randomly split into training, validation, and test images for training and testing the deep learning models. The images were preprocessed to enhance model training and performance. This dataset is a rich resource for developing advanced detection systems. It holds significant potential for educational and industrial applications, such as creating interactive learning tools, creating e-waste management systems, and streamlining inventory management processes in electronic manufacturing.</p>
 
-![Dataset Overview](results/val/val/val_batch1_pred.jpg)
+![Dataset Overview](Results/download.jpeg)
 
 <h2>Access the Dataset</h2>
 <p>Explore the ElectroCom61 dataset on Kaggle: <a href="https://data.mendeley.com/datasets/6scy6h8sjz/1" target="_blank">ElectroCom61</a></p>
@@ -24,7 +24,7 @@
 <p>This dataset is available under <a href="LICENSE">LICENSE</a>. Please review the license before using the dataset for your projects.</p>
 
 <h2>Cite</h2>
-<p>If you use ElectroCom61 dataset for your research, please cite it as follows:</p>
+<p>If you use the ElectroCom61 dataset for your research, please cite it as follows:</p>
 <pre>
 @dataset{faiyaz2024electrocom61,
   author       = {Md Faiyaz Abdullah Sayeedi and Anas Mohammad Ishfaqul Muktadir Osmani and Taimur Rahman and Jannatul Ferdous Deepti},
