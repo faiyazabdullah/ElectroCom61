@@ -15,7 +15,7 @@
 ![Dataset Overview](Results/download.jpeg)
 
 <h2>Access the Dataset</h2>
-<p>Explore the ElectroCom61 dataset on Kaggle: <a href="https://data.mendeley.com/datasets/6scy6h8sjz/1" target="_blank">ElectroCom61</a></p>
+<p>Explore the ElectroCom61 dataset on Mendeley Data: <a href="https://data.mendeley.com/datasets/6scy6h8sjz/1" target="_blank">ElectroCom61</a></p>
 
 <h2>Code</h2>
 <p>Here is a notebook called 'ElectroComp61_YOLO9' is used to train the model 'YOLOv9s' for mosquito detection with the ElectroCom61.</p>
