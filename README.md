@@ -34,8 +34,8 @@ Pre-print: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4858132
   title        = {{ElectroCom61: A Multiclass Dataset for Detection of Electronic Components}},
   year         = 2024,
   publisher    = {Mendeley Data},
-  version      = {V1},
-  doi          = {10.17632/6scy6h8sjz.1}
+  version      = {V2},
+  doi          = {10.17632/6scy6h8sjz.2}
 }
 </pre>
 
