@@ -29,13 +29,13 @@ Pre-print: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4858132
 <h2>Cite</h2>
 <p>If you use the ElectroCom61 dataset for your research, please cite it as follows:</p>
 <pre>
-@dataset{faiyaz2024electrocom61,
-  author       = {Md Faiyaz Abdullah Sayeedi and Anas Mohammad Ishfaqul Muktadir Osmani and Taimur Rahman and Jannatul Ferdous Deepti},
-  title        = {{ElectroCom61: A Multiclass Dataset for Detection of Electronic Components}},
-  year         = 2024,
-  publisher    = {Mendeley Data},
-  version      = {V2},
-  doi          = {10.17632/6scy6h8sjz.2}
+@article{sayeedi2025electrocom61,
+  title={ElectroCom61: A Multiclass Dataset for Detection of Electronic Components},
+  author={Sayeedi, Md Faiyaz Abdullah and Osmani, Anas Mohammad Ishfaqul Muktadir and Rahman, Taimur and Deepti, Jannatul Ferdous and Rahman, Raiyan and Islam, Salekul},
+  journal={Data in Brief},
+  pages={111331},
+  year={2025},
+  publisher={Elsevier}
 }
 </pre>
 
